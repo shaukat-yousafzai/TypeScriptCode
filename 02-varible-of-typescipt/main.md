@@ -1,0 +1,2 @@
+varaible
+variable hold value

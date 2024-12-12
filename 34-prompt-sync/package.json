@@ -1,0 +1,17 @@
+{
+  "name": "34-prompt-sync",
+  "version": "1.0.0",
+  "description": "kuch bi nahi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shaukat",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.4.1"
+  }
+}

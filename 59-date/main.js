@@ -1,0 +1,16 @@
+var date = new Date();
+console.log(date);
+var hours = date.getHours();
+var minutes = date.getMinutes();
+var seconds = date.getSeconds();
+var dd = date.getDate();
+var days = date.getDay();
+console.log(hours - 12, minutes, seconds);
+console.log(dd);
+console.log(days);
+var month = date.getMonth();
+var day = ["sunday", "monday", "tuesday", "wednesday", "FRIDAY", "STAUTDAY"];
+console.log(day[days]);
+var months = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
+console.log(months[month]);
+console.log(month);
